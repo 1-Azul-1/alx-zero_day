@@ -1,0 +1,22 @@
+#!/bin/bash
+echo "ALX"
+ÂÂ^c
+
+clear
+
+
+
+
+
+git commit --amend --no-edit 
+
+git checkout HEAD~1
+
+
+
+-f
+
+-f
+
+
+
