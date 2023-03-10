@@ -1,1 +1,1 @@
-readme for 0x03-git
+read me for 0x03-git
